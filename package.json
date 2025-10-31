@@ -61,11 +61,8 @@
     }
   },
   "engines": {
-    "vscode": "^1.52.0"
+    "vscode": "^1.75.0"
   },
-  "activationEvents": [
-    "onLanguage:vue"
-  ],
   "main": "./dist/vueMain.js",
   "contributes": {
     "commands": [
